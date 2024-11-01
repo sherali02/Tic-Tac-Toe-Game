@@ -4,7 +4,7 @@ let newGameBtn=document.querySelector("#new-btn");
 let msgContainer=document.querySelector(".msg-container");
 let msg=document.querySelector("#msg");
 let boxClick=0;
-
+// jegnkje
 let turnO= true;//playerX or playerO
 //true = playerO's turn
 //false = playerX's turn
